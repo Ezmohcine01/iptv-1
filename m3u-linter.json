@@ -1,16 +1,56 @@
-{
-  "files": ["streams/*.m3u"],
-  "rules": {
-    "no-empty-lines": true,
-    "require-header": true,
-    "attribute-quotes": true,
-    "require-info": true,
-    "require-title": true,
-    "no-trailing-spaces": false,
-    "no-whitespace-before-title": true,
-    "no-multi-spaces": true,
-    "no-extra-comma": true,
-    "space-before-paren": true,
-    "no-dash": true
-  }
-}
+Channel name:Al Jazeera Arabic (1080p)
+URL:https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8
+Channel name:Al Jazeera Arabic (1080p)
+URL:https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+Channel name:Al Jazeera Balkans (1080p)
+URL:https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+Channel name:Al Jazeera Documentary (270p) [Geo-blocked]
+URL:https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+Channel name:Al Jazeera English
+URL:https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+Channel name:Al Jazeera English (1080p)
+URL:https://live-hls-v3-aje.getaj.net/AJE-V3/index.m3u8
+Channel name:Al Jazeera English (1080p)
+URL:https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+Channel name:Al Jazeera Mubasher (1080p)
+URL:https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+Channel name:Al Rayyan (1080p)
+URL:https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
+Channel name:Al Rayyan Al Qadeem (1080p)
+URL:https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/playlist_dvr.m3u8
+Channel name:Qatar Television (720p)
+URL:https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+Channel name:Qatar Television 2 (720p)
+URL:https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+[Webtv channel END]
+Channel name:2M Monde (360p)
+URL:https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
+Channel name:Al Aoula International (360p)
+URL:https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
+Channel name:Al Aoula Laayoune (360p)
+URL:https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune.m3u8
+Channel name:Al Maghribia (360p)
+URL:https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt.m3u8
+Channel name:Arrabiaa (360p)
+URL:https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa.m3u8
+Channel name:Arryadia (360p) [Not 24/7]
+URL:https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia.m3u8
+Channel name:Assadissa (360p)
+URL:https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa.m3u8
+Channel name:Chada TV (720p)
+URL:https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
+Channel name:M24 TV (720p) [Not 24/7]
+URL:https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/index.m3u8
+Channel name:Maghreb Arabe Press (720p) [Not 24/7]
+URL:https://www.maptvnews.ma/live/smil:OutStream1.smil/playlist.m3u8
+Channel name:Medi 1 TV Afrique (1080p) [Not 24/7]
+URL:http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
+Channel name:Medi 1 TV Arabic (1080p) [Not 24/7]
+URL:http://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
+Channel name:Medi 1 TV Maghreb (1080p) [Not 24/7]
+URL:https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
+Channel name:Tamazight (360p)
+URL:https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt.m3u8
+Channel name:Télé Maroc (1080p)
+URL:https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8
+[Webtv channel END]
